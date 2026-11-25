@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&family=M anrope:wght@200..800&display=swap');
+</style>
+
+*{
+  margin: 0;
+  font-family:"Libre Caslon Condense"
+  sans-serif;
+  
+}
+      
+
+body {
+  bacground-color: red;
+  text-color: ;red;
+  font-size:20px;
+  }
+main{
+  background-color: orange;
+  max-width: 70px'
+  margin: auto; 
+}
+
+h1{
+  font-family : "manrope"
+  text-color: blue;
+  text-transform: uppercase;
+  text-align : center;
+}
+
+h2{
+  margin-top: 20px;
+  text-alin: center;
+}
+
+p{
+  padding: 20px;
+  text-color: purple;
+}
+figure {
+  max-width: 500px;
+  margin: auto;
+  background-color: grey;
+
+  
+}
+
+figure img{
+  max-width: 100%;
+}
+
+figurecaption {
+   padding: 4em;
+  color: red;
+}
+a{
+  color: yellow;
+
+  a: hover{
+    text-decoration: underline;
+  }
+  
+  a:  visited {
+    color; white;
+  }
+
+
+
+    
+html {
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
